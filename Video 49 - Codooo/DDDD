@@ -1,0 +1,30 @@
+PDF Documents
+      -
+      ->
+Text Extraction
+      -
+      ->
+Chunking
+      -
+      ->
+Embeddings (MiniLM)
+      -
+      ->
+FAISS Vector Store
+      ->
+
+
+
+User Query
+      │
+      ▼
+Similarity Search
+      │
+      ▼
+Relevant Chunks
+      │
+      ▼
+Gemini 2.5 Flash
+      │
+      ▼
+Final Response
